@@ -39,5 +39,8 @@
     <ClCompile Include="2606_백준_바이러스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11726_백준_2xn타일링.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -70,13 +70,5 @@ int main()
 
 	printf("%d", count - 1);
 
-	//print
-	//for (int i = 0; i < computer + 1; i++)
-	//{
-	//	for (int j = 0; j < computer + 1; j++)
-	//	{
-	//		printf("%d ", graph[i][j]);
-	//	}
-	//	printf("\n");
-	//}
+
 }
